@@ -1,0 +1,58 @@
+[
+    {
+        "ip": "8.8.8.8",
+        "abuse_confidence": 0,
+        "vt_malicious_count": 0,
+        "verdict": "CLEAN",
+        "scan_time": "2026-03-29 15:29:45"
+    },
+    {
+        "ip": "1.1.1.1",
+        "abuse_confidence": 0,
+        "vt_malicious_count": 0,
+        "verdict": "CLEAN",
+        "scan_time": "2026-03-29 15:30:02"
+    },
+    {
+        "ip": "2.57.121.112",
+        "abuse_confidence": 100,
+        "vt_malicious_count": 16,
+        "verdict": "MALICIOUS",
+        "scan_time": "2026-03-29 15:30:20"
+    },
+    {
+        "ip": "185.170.167.18",
+        "abuse_confidence": 100,
+        "vt_malicious_count": 4,
+        "verdict": "MALICIOUS",
+        "scan_time": "2026-03-29 15:30:36"
+    },
+    {
+        "ip": "127.0.0.18.8.8.8",
+        "abuse_confidence": "Error (422 Client Error: Unprocessable Entity for url: https://api.abuseipdb.com/api/v2/check?ipAddress=127.0.0.18.8.8.8&maxAgeInDays=90)",
+        "vt_malicious_count": 0,
+        "verdict": "CLEAN",
+        "scan_time": "2026-03-29 15:30:54"
+    },
+    {
+        "ip": "1.1.1.1",
+        "abuse_confidence": 0,
+        "vt_malicious_count": 0,
+        "verdict": "CLEAN",
+        "scan_time": "2026-03-29 15:31:10"
+    },
+    {
+        "ip": "127.0.0.1",
+        "abuse_confidence": 0,
+        "vt_malicious_count": 2,
+        "verdict": "MALICIOUS",
+        "scan_time": "2026-03-29 15:31:27"
+    },
+    {
+        "ip": "185.196.220.70",
+        "abuse_confidence": 0,
+        "vt_malicious_count": 0,
+        "verdict": "CLEAN",
+        "scan_time": "2026-03-29 15:31:44"
+    }
+]

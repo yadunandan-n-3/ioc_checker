@@ -1,0 +1,44 @@
+[
+    {
+        "ip": "8.8.8.8",
+        "abuse": 0,
+        "vt": 0,
+        "verdict": "[bold green]CLEAN[/]"
+    },
+    {
+        "ip": "1.1.1.1",
+        "abuse": 0,
+        "vt": 0,
+        "verdict": "[bold green]CLEAN[/]"
+    },
+    {
+        "ip": "2.57.121.112",
+        "abuse": 100,
+        "vt": 16,
+        "verdict": "[bold red]MALICIOUS[/]"
+    },
+    {
+        "ip": "185.170.167.18",
+        "abuse": 100,
+        "vt": 4,
+        "verdict": "[bold red]MALICIOUS[/]"
+    },
+    {
+        "ip": "127.0.0.18.8.8.8",
+        "abuse": 0,
+        "vt": 0,
+        "verdict": "[bold green]CLEAN[/]"
+    },
+    {
+        "ip": "127.0.0.1",
+        "abuse": 0,
+        "vt": 1,
+        "verdict": "[bold yellow]SUSPICIOUS[/]"
+    },
+    {
+        "ip": "185.196.220.70",
+        "abuse": 0,
+        "vt": 0,
+        "verdict": "[bold green]CLEAN[/]"
+    }
+]
